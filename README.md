@@ -54,11 +54,7 @@ The Weather App is an Android application that provides real-time weather update
 
 ## Screenshots
 
-![Main Screen]([https://github.com/SouradeepManna/Weather-App-API/blob/main/path-to-screenshot1.png](https://github.com/SouradeepManna/Weather-App-API/blob/main/WAPP%201.jpg))  
-*Example screenshot of the app - Main Screen*
 
-![Weather Details]([https://github.com/SouradeepManna/Weather-App-API/blob/main/path-to-screenshot2.png](https://github.com/SouradeepManna/Weather-App-API/blob/main/WAPP%202.jpg))  
-*Example screenshot of the app - Weather Details*
 
 ## Technologies Used
 
