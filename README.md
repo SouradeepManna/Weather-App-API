@@ -10,12 +10,6 @@ The Weather App is an Android application that provides real-time weather update
    ```bash
    git clone https://github.com/SouradeepManna/Weather-App-API.git
 
-# Weather App
-
-## Description
-
-The Weather App is an Android application that provides real-time weather updates. It fetches weather data from an API and displays current conditions and forecasts for various locations. The app features a user-friendly interface for searching and viewing weather information.
-
 ## Installation Instructions
 
 ### Open the Project
@@ -53,7 +47,8 @@ The Weather App is an Android application that provides real-time weather update
 - User-friendly interface.
 
 ## Screenshots
-
+- https://github.com/SouradeepManna/Weather-App-API/blob/main/WAPP%201.jpg
+- https://github.com/SouradeepManna/Weather-App-API/blob/main/WAPP%202.jpg
 
 
 ## Technologies Used
